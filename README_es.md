@@ -4,11 +4,11 @@
 
 Creador de Stickers AI es un bot de Telegram que convierte tus fotos en packs de stickers únicos. Estilos: **Kawaii**, **Cyber Neón**, **Juguete 3D**; packs: Oficina, Memes, Cripto, Gym, Gamer, Viajes. Pago con Telegram Stars; invita amigos para créditos gratis.
 
-**[Abrir en Telegram](https://t.me/StickerAIMaker_Bot)** y envía /start para comenzar.
+**[Abrir en Telegram](https://t.me/StickerAIMakerBot)** y envía /start para comenzar.
 
 ## Links
 
-- [Telegram Bot](https://t.me/StickerAIMaker_Bot)
+- [Telegram Bot](https://t.me/StickerAIMakerBot)
 - [Telegram Channel](https://t.me/StickerAIMaker)
-- [X (Twitter)](https://x.com/PLACEHOLDER)
-- [Reddit](https://reddit.com/r/PLACEHOLDER)
+- [X (Twitter)](https://x.com/stackforcharlie)
+- [Reddit](https://reddit.com/u/stackforcharlie)
