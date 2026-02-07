@@ -6,6 +6,8 @@
 
 **[فتح في Telegram](https://t.me/StickerAIMakerBot)** ثم أرسل /start للبدء.
 
+دليل خطوة بخطوة: [صورة إلى ملصقات](https://github.com/stackforcharlie/telegram-sticker-ai-maker-bot/wiki)
+
 ## Links
 
 - [Telegram Bot](https://t.me/StickerAIMakerBot)

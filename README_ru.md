@@ -6,6 +6,8 @@
 
 **[Открыть в Telegram](https://t.me/StickerAIMakerBot)** и отправь /start.
 
+Пошаговая инструкция: [Селфи в стикеры](https://github.com/stackforcharlie/telegram-sticker-ai-maker-bot/wiki)
+
 ## Links
 
 - [Telegram Bot](https://t.me/StickerAIMakerBot)

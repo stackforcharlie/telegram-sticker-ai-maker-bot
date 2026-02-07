@@ -6,6 +6,8 @@ AI Sticker Maker is a Telegram bot that turns your photos into unique sticker pa
 
 **[Open in Telegram](https://t.me/StickerAIMakerBot)** and send /start to begin.
 
+Step-by-step guide: [How to turn your selfie into stickers](https://github.com/stackforcharlie/telegram-sticker-ai-maker-bot/wiki)
+
 ## Links
 
 - [Telegram Bot](https://t.me/StickerAIMakerBot)

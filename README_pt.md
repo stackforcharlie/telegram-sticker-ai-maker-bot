@@ -6,6 +6,8 @@ Criador de Stickers AI é um bot do Telegram que transforma suas fotos em pacote
 
 **[Abrir no Telegram](https://t.me/StickerAIMakerBot)** e envie /start para começar.
 
+Guia passo a passo: [Selfie em stickers](https://github.com/stackforcharlie/telegram-sticker-ai-maker-bot/wiki)
+
 ## Links
 
 - [Telegram Bot](https://t.me/StickerAIMakerBot)
