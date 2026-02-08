@@ -10,7 +10,7 @@ AI 贴纸大师是 Telegram 机器人，把照片变成专属贴纸包。风格�
 
 ## Links
 
-- [Telegram Bot](https://t.me/StickerAIMakerBot?start=github)
+- [Telegram Bot](https://t.me/StickerAIMakerBot?start=source_github)
 - [Telegram Channel](https://t.me/+zcN7oF9VBNBhYzY1)
 - [X (Twitter)](https://x.com/stackforcharlie)
 - [Reddit](https://reddit.com/u/stackforcharlie)
