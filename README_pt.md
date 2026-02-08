@@ -10,7 +10,7 @@ Guia passo a passo: [Selfie em stickers](https://github.com/stackforcharlie/tele
 
 ## Links
 
-- [Telegram Bot](https://t.me/StickerAIMakerBot?start=source_github)
+- [Telegram Bot](https://t.me/StickerAIMakerBot?start=source_gh-tsamb)
 - [Telegram Channel](https://t.me/+zcN7oF9VBNBhYzY1)
 - [X (Twitter)](https://x.com/stackforcharlie)
 - [Reddit](https://reddit.com/u/stackforcharlie)
